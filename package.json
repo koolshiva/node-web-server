@@ -1,0 +1,19 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "description": "A NodeJS Express server application that returns the weather for given coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shiva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.14.0",
+    "hbs": "^4.0.1",
+    "nodemon": "^1.18.9",
+    "request": "^2.88.0",
+    "serve-index": "^1.9.1"
+  }
+}
