@@ -1,0 +1,12 @@
+After downloading the repository from github, kindly run the following commands to run the application:
+
+1. navigate inside the node-web-server folder (main project folder)
+
+2. run "npm install" in the bash terminal (This step is required only for first time run)
+
+3. run "npm start"
+
+
+To run the tests,
+
+1. run "npm test" (to run tests first time after download, run "npm install" first)
